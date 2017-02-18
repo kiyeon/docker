@@ -1,2 +1,2 @@
 from ubuntu
-echo "this is ubuntu"
+cmd echo "this is ubuntu"
