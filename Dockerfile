@@ -1,2 +1,2 @@
 from fedora
-echo "git docker test"
+cmd echo "git docker test"
